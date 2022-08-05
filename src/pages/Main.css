@@ -1,0 +1,13 @@
+.container {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:  space-around;
+    position: relative;
+    gap:10px;
+
+}
+
+h5{
+    text-align: center;
+}
