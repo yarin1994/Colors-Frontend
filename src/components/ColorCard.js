@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "../style.css";
 import VotesBar from "./VotesBar";
-// const BASE_URL = 'https://colors-app1.herokuapp.com';
+
 const BASE_URL = 'http://localhost:5001';
 
 
